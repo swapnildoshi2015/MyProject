@@ -1,0 +1,11 @@
+diff a/string_formatting_capitalize_ upcase_downcase_reverse_length_concat.rb b/string_formatting_capitalize_ upcase_downcase_reverse_length_concat.rb	(rejected hunks)
+@@ -22,6 +22,4 @@
+ puts name.length
+ puts name.downcase!
+ 
+-#lets check this command
+-#oh shit i have some girls which are my really good friends
+-# a zawadya
+\ No newline at end of file
++#mom said no girls please
+\ No newline at end of file
